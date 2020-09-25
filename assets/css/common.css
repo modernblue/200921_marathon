@@ -399,7 +399,7 @@ layout style
   color: #b31d22;
 }
 .header .header__cont .header__left .header__search::after {
-  content: '楽天スーパーSALE期間中に使える【1,000円OFF】クーポン配布中！';
+  content: '楽天お買い物マラソン期間中に使える【1,000円OFF】クーポン配布中！';
   position: absolute;
   display: block;
   left: 0;
@@ -531,8 +531,8 @@ layout style
   font-weight: bold;
 }
 .main .main__headline.headline .headline__date span {
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, rgba(0, 0, 0, 0)), color-stop(50%, #7f0512));
-  background: linear-gradient(rgba(0, 0, 0, 0) 50%, #7f0512 50%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, rgba(0, 0, 0, 0)), color-stop(50%, #6f095f));
+  background: linear-gradient(rgba(0, 0, 0, 0) 50%, #6f095f 50%);
   font-size: inherit;
   text-shadow: 1px 1px 0 #fff;
 }
@@ -571,7 +571,7 @@ layout style
   margin: 20px auto 0;
   padding: 22px 0;
   color: #fff;
-  background: #7f0512;
+  background: #6f095f;
   border-radius: 32px;
   font-weight: bold;
   font-size: 20px;
@@ -583,7 +583,7 @@ layout style
   text-align: center;
   font-size: 20px;
   font-weight: bold;
-  color: #7f0512;
+  color: #6f095f;
   text-shadow: 1px 1px 0 #aaa;
 }
 .main .main__headline.headline .headline__cpn.cpn .cpn__bnr {
@@ -620,7 +620,7 @@ layout style
   text-align: center;
   font-size: 20px;
   font-weight: bold;
-  color: #7f0512;
+  color: #6f095f;
   text-shadow: 1px 1px 0 #aaa;
 }
 .main .main__headline.headline .headline__info.info .info__list {
@@ -649,7 +649,7 @@ layout style
   text-align: center;
   font-size: 20px;
   font-weight: bold;
-  color: #7f0512;
+  color: #6f095f;
   text-shadow: 1px 1px 0 #aaa;
 }
 .main .main__headline.headline .headline__nav.nav .nav__items {
@@ -809,7 +809,7 @@ layout style
   top: 0;
   left: 0;
   display: block;
-  background: #7f0512;
+  background: #6f095f;
   padding: 3px 5px 2px;
   color: #fff;
   line-height: 1.4em;
@@ -1007,7 +1007,7 @@ layout style
   top: 0;
   left: 0;
   display: block;
-  background: #7f0512;
+  background: #6f095f;
   padding: 3px 5px 2px;
   color: #fff;
   line-height: 1.4em;

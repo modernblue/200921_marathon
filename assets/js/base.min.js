@@ -17,7 +17,7 @@ var app = new Vue({
     //showDelvFree: false,
     //「並び替え」の選択値（1：標準、2：価格が安い順）
     //sortOrder: 1,
-    campaign: "200904_supersale",
+    campaign: "200921_marathon",
     shippingFree: 3850,
     items: [],
     // test: [],
@@ -28,9 +28,9 @@ var app = new Vue({
     categoryList: [],
     recommends: [
         {id: 1, url: 'https://www.rakuten.ne.jp/gold/mb/page/18_rkDeal/rk.html', image: 'assets/image/rcmd_01.jpg', text: 'ポイントバック10%OVER！<br>楽天スーパーDEAL開催中', target: true},
+        {id: 3, url: 'https://www.rakuten.ne.jp/gold/mb/mb/article/103/rk.html', image: 'assets/image/rcmd_03.jpg', text: 'レディースダウンウェアブランド<br>完全攻略', target: true},
         {id: 2, url: 'https://www.rakuten.ne.jp/gold/mb/page/list/brand/rimowa/modelchange/rk.html', image: 'assets/image/rcmd_02.jpg', text: 'リモワ全モデル完全ガイド2020AW', target: true},
         {id: 4, url: 'https://www.rakuten.ne.jp/gold/mb/mb/article/102/rk.html', image: 'assets/image/rcmd_04.jpg', text: '大人が選ぶ、不動のアイコンスニーカー', target: true},
-        {id: 3, url: 'https://www.rakuten.ne.jp/gold/mb/mb/article/101/rk.html', image: 'assets/image/rcmd_03.jpg', text: '夏小物と、紳士の休日。', target: true},
         {id: 5, url: 'https://www.rakuten.ne.jp/gold/mb/page/gift/rk.html', image: 'assets/image/rcmd_05.jpg', text: 'ギフト ～ Gift<br>大切な人に贈るギフト特集', target: true},
         {id: 6, url: 'https://www.rakuten.ne.jp/gold/mb/page/brand_new/aw/rk.html', image: 'assets/image/rcmd_06.jpg', text: '2020年秋冬新作<br>入荷ブランド一覧', target: true},
         {id: 7, url: 'https://www.rakuten.ne.jp/gold/mb/page/review_coupon/rk.html', image: 'assets/image/rcmd_07.jpg', text: 'レビューを書いて<br>500円OFFクーポン', target: true},
